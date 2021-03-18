@@ -7,5 +7,5 @@ puts row
 puts column
 puts row
 puts column
-  
+
 end
